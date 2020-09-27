@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingCommentary", "GradingCommentary\GradingCommentary.csproj", "{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mac.GradingCommentary", "Mac.GradingCommentary\Mac.GradingCommentary.csproj", "{4E86A906-B581-4E21-B45C-102FB48CDCEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Debug|x86.ActiveCfg = Debug|x86
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Debug|x86.Build.0 = Debug|x86
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Release|x86.ActiveCfg = Release|x86
+		{8FDFDCCD-03F8-4193-9D52-1FE0599EE029}.Release|x86.Build.0 = Release|x86
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Debug|x86.ActiveCfg = Debug|x86
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Debug|x86.Build.0 = Debug|x86
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Release|x86.ActiveCfg = Release|x86
+		{4E86A906-B581-4E21-B45C-102FB48CDCEE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EB71A1C-14B7-4737-A4F6-817EFB32927D}
+	EndGlobalSection
+EndGlobal
